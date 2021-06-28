@@ -1,6 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 
-function App() {}
+function App() {
+  return <h1>Landing page</h1>;
+}
 
 export default App;
